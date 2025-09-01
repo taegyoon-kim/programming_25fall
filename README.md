@@ -13,7 +13,7 @@
 - **Email:** jiyoung@kaist.ac.kr
 
 ## Course Overview
-This course offers a comprehensive introduction to programming tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with major skills for quantitative and computational research. Key topics include-but are not limited to—Python fundamentals, data manipulation, web data collection, visualization, text-as-data/NLP, network analysis, and machine learning. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
+This course offers a comprehensive introduction to programming tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with major skills for quantitative and computational research. Key topics include—but are not limited to—Python fundamentals, data manipulation, web data collection, visualization, text-as-data/NLP, network analysis, and machine learning. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
 
 ## Readings
 Students are not required to purchase any books for this course as it will not follow any textbook strictly. However, here are useful, freely available books:
@@ -50,7 +50,7 @@ See below for the major tasks in the course.
 
 The use of generative AI tools is permitted in this course and can be a valuable aid in your learning process (but NOT a replacement for it).
 
-Especially in the early stages of learning---when you’re building foundational programming skills (e.g., recursion, branching, loops) as well as more advanced techniques (e.g., clustering embeddings, building predictive models)---it is essential that you deeply understand the logic behind any code you write or use.
+Especially in the early stages of learning—when you’re building foundational programming skills (e.g., recursion, branching, loops) as well as more advanced techniques (e.g., clustering embeddings, building predictive models)—it is essential that you deeply understand the logic behind any code you write or use.
 
 Relying on AI-generated code without comprehension is harmful. You are expected to invest the time and effort to work through tasks independently, reason through the structure of your approaches, and understand the purpose of each line of code.
 
@@ -80,33 +80,33 @@ Grade values will not be rounded. That is, any grade value that is greater than 
 | F     | 0     | 57    |
 
 ## Course Schedule
-
 The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here]()**.
 
 ### Week 1: Sep 2 & 4
 - **Tue:** Course overview, logistics, self-introductions, etc.
 - **Thu:** Branching and iteration
-  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 16) [[link]]()
+  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 11) [[link]]()
   - 🌟 Take-home exercise 1 example solutions [[to be uploaded]]()
 
 ### Week 2: Sep 9 & 11
 - **Tue:** String manipulation, tuples, and lists
-  - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 18) [[link]]()
+  - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 16) [[link]]()
   - 🌟 Take-home exercise 2 example solutions [[to be uploaded]]()
 - **Thu:** Functions, modules, and exceptions
-  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Oct 23) [[link]]()
+  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 18) [[link]]()
   - 🌟 Take-home exercise 3 example solutions [[to be uploaded]]()
 
 ### Week 3: Sep 16 & 18
 - **Tue:** Dictionaries, sets, and recursion
-  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Oct 25) [[link]]()
+  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 23) [[link]]()
   - 🌟 Take-home exercise 4 example solutions [[to be uploaded]]()
+- **Thu:** NumPy and Pandas I
 
 ### Week 4: Sep 23 & 25
-- **Tue:** NumPy and Pandas I
-- **Thu:** NumPy and Pandas II
-  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Oct 9) [[link]]()
+- **Tue:** NumPy and Pandas II
+  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 30) [[link]]()
   - 🌟 Take-home exercise 5 example solutions [[to be uploaded]]()
+- **Thu:** Python Fundamentals Quiz Day
 
 ### Week 5: Sep 30 & Oct 2
 - **Tue & Thu:** Visualization
