@@ -26,9 +26,9 @@ Students are not required to purchase any books for this course as it will not f
 See below for the major tasks in the course.
 
 - **Attendance:** Students are required to attend all lectures unless they have exceptional circumstances that they have discussed with the instructor beforehand. Worth 10% of the final grade.
-- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](https://drive.google.com/drive/folders/1GLdKn-kti0rzBLz6PVjcV9XaaQMX_WcW?usp=share_link). Worth 20% of the final grade.
-- **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 20% of the final grade. [See details below.](#tutorial-presentation-details)
-- **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course. The paper and presentation are worth 40% and 10% of the final grade, respectively. [See details below.](#final-project-details)
+- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](https://drive.google.com/drive/folders/1GLdKn-kti0rzBLz6PVjcV9XaaQMX_WcW?usp=share_link). Worth 25% of the final grade.
+- **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 25% of the final grade. [See details below.](#tutorial-presentation-details)
+- **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course. The paper and presentation are worth 30% and 10% of the final grade, respectively. [See details below.](#final-project-details)
 
 ### Tutorial Presentation Details
 - The presentations serve a dual purpose: firstly, to provide non-presenting students with a deeper understanding of the techniques covered in that week, and secondly, to offer presenting students an opportunity to apply and adapt those techniques in their own data analysis tasks.
