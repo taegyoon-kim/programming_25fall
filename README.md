@@ -2,15 +2,19 @@
 
 **Fall 2025**  
 **Tue Thu 10:30–11:45pm**  
-**Classroom TBD, N4 School of Digital Humanities and Computational Social Sciences**
+**Classroom 1309, N4 School of Digital Humanities and Computational Social Sciences**
 
 ## Instructor
 - **Name:** Taegyoon Kim, Ph.D. in Political Science and Social Data Analytics
 - **Email:** taegyoon@kaist.ac.kr
 - **Personal webpage:** [https://taegyoon-kim.github.io](https://taegyoon-kim.github.io)
 
+## Teaching Assistant
+- **Name:** Jiyoung Baek, M.S. student in Computational Social Science
+- **Email:** jiyoung@kaist.ac.kr
+
 ## Course Overview
-This course offers a comprehensive introduction to programming tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for quantitative and computational research. Key topics include—but are not limited to—Python fundamentals, data manipulation, web data collection, text-as-data/NLP, network analysis, and machine learning. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
+This course offers a comprehensive introduction to programming tailored for data analytics in humanities and social sciences. Students will learn the core principles of programming along with essential skills for quantitative and computational research. Key topics include-but are not limited to—Python fundamentals, data manipulation, web data collection, visualization, text-as-data/NLP, network analysis, and machine learning. The course integrates theoretical discussions with hands-on coding exercises, providing students with practical experience. Additionally, through applied projects, students will have the opportunity to apply and adapt their newly acquired skills to their own research.
 
 ## Readings
 Students are not required to purchase any books for this course as it will not follow any textbook strictly. However, here are useful, freely available books:
@@ -40,7 +44,8 @@ See below for the major tasks in the course.
 - The primary objective is to guide students in building a comprehensive data-driven research pipeline that encompasses data collection, preprocessing, analysis, interpretation, and visualization.
 - Although students have the freedom to choose their preferred topic, they are required to work with data applying skills learned in the course. By applying and adapting these skills for their own research, students will not only demonstrate their mastery of programming fundamentals and data analytic skills but also gain a practical understanding of how what they learned in class can be effectively utilized in real-world research scenarios.
 - The project should focus on detailed methodological accounts of data collection, cleaning, manipulation, analysis, and visualization, rather than discussions of theories or prior literature.
-- Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 20 11:59pm).
+- Students must submit a one-page project proposal by Oct 12 at 11:59pm to [the proposals folder]() and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
+- Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 19 11:59pm).
 
 ## Grading Scale
 Grade values will not be rounded. That is, any grade value that is greater than or equal to 'Lower' and less than 'Upper' will receive the respective grade.
@@ -63,76 +68,78 @@ Grade values will not be rounded. That is, any grade value that is greater than 
 
 ## Course Schedule
 
-The course schedule is detailed in the weekly breakdown below. The course slides can be found [here]().
+The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here]()**.
 
 ### Week 1: Sep 2 & 4
-- **Mon & Wed:** Course overview, logistics, self-introductions, etc.
+- **Tue:** Course overview, logistics, self-introductions, etc.
+- **Thu:** Branching and iteration
+  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 16) [[link]]()
+  - 🌟 Take-home exercise 1 example solutions [[to be uploaded]]()
 
 ### Week 2: Sep 9 & 11
-- **Tue:** Branching and iteration
-  - ⭐ Exercise 1 questions (due date: 11:59pm Sep 16) [[link]]()
-  - 🌟 Exercise 1 example solutions [[to be uploaded]]()
-- **Thu:** String manipulation, tuples, and lists
-  - ⭐ Exercise 2 questions (due date: 11:59pm Sep 18) [[link]]()
-  - 🌟 Exercise 2 example solutions [[to be uploaded]]()
+- **Tue:** String manipulation, tuples, and lists
+  - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 18) [[link]]()
+  - 🌟 Take-home exercise 2 example solutions [[to be uploaded]]()
+- **Thu:** Functions, modules, and exceptions
+  - ⭐ Take-home exercise 3 questions (due date: 11:59pm Oct 23) [[link]]()
+  - 🌟 Take-home exercise 3 example solutions [[to be uploaded]]()
 
 ### Week 3: Sep 16 & 18
-- **Tue:** Functions, modules, and exceptions
-  - ⭐ Exercise 3 questions (due date: 11:59pm Oct 23) [[link]]()
-  - 🌟 Exercise 3 example solutions [[to be uploaded]]()
-- **Thu:** Dictionaries, sets, and recursion
-  - ⭐ Exercise 4 questions (due date: 11:59pm Oct 25) [[link]]()
-  - 🌟 Exercise 4 example solutions [[to be uploaded]]()
+- **Tue:** Dictionaries, sets, and recursion
+  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Oct 25) [[link]]()
+  - 🌟 Take-home exercise 4 example solutions [[to be uploaded]]()
 
 ### Week 4: Sep 23 & 25
-- **Tue:** NumPy and Pandas I (1/2)
-- **Thu:** NumPy and Pandas I (2/2)
-  
+- **Tue:** NumPy and Pandas I
+- **Thu:** NumPy and Pandas II
+  - ⭐ Take-home exercise 5 questions (due date: 11:59pm Oct 9) [[link]]()
+  - 🌟 Take-home exercise 5 example solutions [[to be uploaded]]()
+
 ### Week 5: Sep 30 & Oct 2
-- **Tue:** NumPy and Pandas II (1/2)
-- **Thu:** NumPy and Pandas II (2/2)
-  - ⭐ Exercise 5 questions (due date: 11:59pm Oct 9) [[link]]()
-  - 🌟 Exercise 5 example solutions [[to be uploaded]]()
+- **Tue & Thu:** Visualization
+  - Lecture notebook: [[link]]()
+  - ⭐ In-class exercise: [[link]]()
 
 ### Week 6: Oct 7 & Oct 9
-- **Mon & Wed:** No class (Chuseok)
-- 
+- **Tue & Thu:** No class (Chuseok)
+  
 ### Week 7: Oct 14 & Oct 16
 - **Tue:** One-on-one proposal meetings I
 - **Thu:** One-on-one proposal meetings II
 
 ### Week 8: Oct 21 & 23
-- **Mon & Wed:** No class (mid-term examination period)
+- **Tue & Thu:** No class (mid-term examination period)
 
 ### Week 9: Oct 28 & 30
-- **Mon & Wed:** Visualization
+- **Tue & Thu:** Interacting with API (Application Programming Interface)
   - Lecture notebook: [[link]]()
   - ⭐ In-class exercise: [[link]]()
 
 ### Week 10: Nov 4 & Nov 6
-- **Mon & Wed:** Interacting with API (Application Programming Interface)
-  - Lecture notebook: [[link]]()
+- **Tue & Thu:** Web scraping
   - ⭐ In-class exercise: [[link]]()
 
 ### Week 11: Nov 11 & 13
-- **Mon & Wed:** Web scraping
-  - ⭐ In-class exercise: [[link]]()
-
-### Week 12: Nov 18 & 20
-- **Mon & Wed:** Text-as-data/NLP I
+- **Tue & Thu:** Text-as-data/NLP I
   - ⭐ In-class exercise (string manipulation and regex): [[link]]()
   - ⭐ In-class exercise (representing and comparing texts): [[link]]()
 
+### Week 12: Nov 18 & 20
+- **Tue & Thu:** Text-as-data/NLP II
+  - ⭐ In-class exercise: [[link]]()
+  - ⭐ In-class exercise: [[link]]()
+
 ### Week 13: Nov 25 & 27
-- **Mon & Wed:** Text-as-data/NLP II
+- **Tue:** Guest lecture ("leveraging embeddings" by [Jisung Yoon](https://jisungyoon.github.io))
+- **Thu:** No class (entrance exam)
 
 ### Week 14: Dec 2 & 4
-- **Mon & Wed:** Network analysis
-  - Lecture notebook: [[link]]()
+- **Tue & Thu:** Network analysis
+  - ⭐ In-class exercise: [[link]]()
 
 ### Week 15: Dec 9 & 11
-- **Mon & Wed:** Machine learning
+- **Tue & Thu:** Machine learning
   - ⭐ In-class exercise: [[link]]()
 
 ### Week 16: Dec 16 & 18 (Final Presentations)
-- **Mon & Wed:** Final presentations
+- **Tue & Thu:** Final presentations
