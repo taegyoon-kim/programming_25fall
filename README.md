@@ -27,7 +27,7 @@ Students are not required to purchase any books for this course as it will not f
 See below for the major tasks in the course.
 
 - **Attendance:** Students are required to attend all lectures unless they have exceptional circumstances that they have discussed with the instructor beforehand. Worth 10% of the final grade.
-- **Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the exercises folder](). Worth 20% of the final grade.
+- **Take-home Exercises:** There will be several exercises for Python fundamentals. The due dates are indicated in the weekly schedule below. Upload your completed exercise to [the take-home exercises folder](https://drive.google.com/drive/folders/1GLdKn-kti0rzBLz6PVjcV9XaaQMX_WcW?usp=share_link). Worth 20% of the final grade.
 - **Tutorial Presentation:** Students will deliver one tutorial presentation for approximately 10–15 minutes. Worth 20% of the final grade. [See details below.](#tutorial-presentation-details)
 - **Final Project:** Students must complete an original research paper that involves a significant amount of data work and present it during the final week of the course. The paper and presentation are worth 40% and 10% of the final grade, respectively. [See details below.](#final-project-details)
 
@@ -36,16 +36,20 @@ See below for the major tasks in the course.
 - At the beginning of the tutorial, provide a clear overview that includes what the tutorial covers, the specific data being used, and any other relevant details.
 - During the presentations, students will showcase the implementation of techniques covered in the previous week using their own data, preferably related to their research projects.
 - They will guide the entire class through their script, explaining each line of code in detail, including the syntax when necessary.
-- Tutorial presentations will be on Wednesday classes. Please sign up on [this spreadsheet]().
+- Tutorial presentations will be on Thusday classes. Please sign up on [this spreadsheet](https://docs.google.com/spreadsheets/d/1wa8YIboKSAkvsyEXJp5HnoxdbDVOy3DQ6-cxgOAG-VE/edit?usp=sharing).
 - Students are free to use any scripting tool, but Google Colaboratory is an effective choice for creating and presenting tutorials.
-- Be sure to provide the class with access to your script and data so that the whole class can follow as you walk through your tutorial by uploading them to [the tutorial materials folder]() prior to the presentation.
+- Be sure to provide the class with access to your script and data so that the whole class can follow as you walk through your tutorial by uploading them to [the tutorial materials folder](https://drive.google.com/drive/folders/1aUIVSVFlurWsJCVHpRsj-419cWdI6ti9?usp=share_link) prior to the presentation.
 
 ### Final Project Details
 - The primary objective is to guide students in building a comprehensive data-driven research pipeline that encompasses data collection, preprocessing, analysis, interpretation, and visualization.
 - Although students have the freedom to choose their preferred topic, they are required to work with data applying skills learned in the course. By applying and adapting these skills for their own research, students will not only demonstrate their mastery of programming fundamentals and data analytic skills but also gain a practical understanding of how what they learned in class can be effectively utilized in real-world research scenarios.
 - The project should focus on detailed methodological accounts of data collection, cleaning, manipulation, analysis, and visualization, rather than discussions of theories or prior literature.
-- Students must submit a one-page project proposal by Oct 12 at 11:59pm to [the proposals folder]() and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet]().
-- Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder]() by the end of the semester (Dec 19 11:59pm).
+- Students must submit a one-page project proposal by Oct 12 at 11:59pm to [the proposals folder](https://drive.google.com/drive/folders/1KMcvlEffqt5CxbcfiWduQh8qUpn3FEl3?usp=share_link) and will have a one-on-one meeting with the instructor to discuss their ideas in Week 7. Please sign up for your one-on-one meeting using [this spreadsheet](https://docs.google.com/spreadsheets/d/1Zap5dc5Wy6v2ZGdA2ihbnbaZnZ5JIdFQlsoPZnewpHg/edit?usp=sharing).
+- Students will deliver a short presentation of their papers (10 minutes) in the final week of the course. The paper should be around 3,000 words in length—excluding figures, tables, and appendices—and should be uploaded, along with replication materials, to [the final projects folder](https://drive.google.com/drive/folders/16OXp_brkYuLdZ-w_xOJXMNJULKpvEIKV?usp=share_link) by the end of the semester (Dec 19 11:59pm).
+
+## AI Use Policy
+
+TBD
 
 ## Grading Scale
 Grade values will not be rounded. That is, any grade value that is greater than or equal to 'Lower' and less than 'Upper' will receive the respective grade.
