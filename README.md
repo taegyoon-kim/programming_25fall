@@ -60,6 +60,9 @@ Recommended use: AI tools may be helpful when used carefully. Here are some reco
 - Seek improvements: Once you have written a working solution, you can use AI to explore how your code might be enhanced—for example, in terms of readability, scalability, etc.
 - Validate, validate, and validate: Never use AI-assisted code without reviewing each line. Make sure the code you write does exactly what you intend.
 
+Finally, be sure to indicate whether and how you used AI in any work you submit, including take-home exercises, tutorials, and final projects.
+
+
 ## Grading Scale
 Grade values will not be rounded. That is, any grade value that is greater than or equal to 'Lower' and less than 'Upper' will receive the respective grade.
 
