@@ -88,7 +88,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 ### Week 1: Sep 2 & 4
 - **Tue:** Course overview, logistics, self-introductions, etc.
 - **Thu:** Branching and iteration
-  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 11) [[link]]()
+  - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 11) [[link]](https://colab.research.google.com/drive/1pGrmTmH0tVpIGXxwyj3nLprwe3rVsTcd?usp=sharing)
   - 🌟 Take-home exercise 1 example solutions [[to be uploaded]]()
 
 ### Week 2: Sep 9 & 11
