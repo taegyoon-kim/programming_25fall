@@ -83,7 +83,7 @@ Grade values will not be rounded. That is, any grade value that is greater than 
 | F     | 0     | 57    |
 
 ## Course Schedule
-The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here]()**.
+The course schedule is detailed in the weekly breakdown below. **The course slides can be found [here](https://rpubs.com/taegyoon)**.
 
 ### Week 1: Sep 2 & 4
 - **Tue:** Course overview, logistics, self-introductions, etc.
