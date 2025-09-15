@@ -101,7 +101,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 3: Sep 16 & 18
 - **Tue:** Dictionaries, sets, and recursion
-  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 23) [[link]]()
+  - ⭐ Take-home exercise 4 questions (due date: 11:59pm Sep 23) [[link]](https://colab.research.google.com/drive/1PyWiCfTY3wGdpMX6V57KiE5smHTjgD6P?usp=sharing)
   - 🌟 Take-home exercise 4 example solutions [[to be uploaded]]()
 - **Thu:** NumPy and Pandas I
 
