@@ -89,12 +89,12 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 - **Tue:** Course overview, logistics, self-introductions, etc.
 - **Thu:** Branching and iteration
   - ⭐ Take-home exercise 1 questions (due date: 11:59pm Sep 11) [[link]](https://colab.research.google.com/drive/1pGrmTmH0tVpIGXxwyj3nLprwe3rVsTcd?usp=sharing)
-  - 🌟 Take-home exercise 1 example solutions [[to be uploaded]]()
+  - 🌟 Take-home exercise 1 example solutions [[link]](https://colab.research.google.com/drive/1dPi0VFQpo1MH-JCv5PE1GH8_hEGCG5Is?usp=sharing)
 
 ### Week 2: Sep 9 & 11
 - **Tue:** String manipulation, tuples, and lists
   - ⭐ Take-home exercise 2 questions (due date: 11:59pm Sep 16) [[link]](https://colab.research.google.com/drive/1ADhwlMWt1cmPCAlHIPSpvjkmDk8NWjVu?usp=sharing)
-  - 🌟 Take-home exercise 2 example solutions [[to be uploaded]]()
+  - 🌟 Take-home exercise 2 example solutions [[link]](https://colab.research.google.com/drive/1pmmSJFNdW83547jOgy6LYlmpAmCZJ5if?usp=sharing)
 - **Thu:** Functions, modules, and exceptions
   - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 18) [[link]](https://colab.research.google.com/drive/1h3tS8vIvX37qFE-FTMkfHHE6OaPLOPh9?usp=sharing)
   - 🌟 Take-home exercise 3 example solutions [[to be uploaded]]()
