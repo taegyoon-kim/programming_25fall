@@ -97,7 +97,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
   - 🌟 Take-home exercise 2 example solutions [[link]](https://colab.research.google.com/drive/1pmmSJFNdW83547jOgy6LYlmpAmCZJ5if?usp=sharing)
 - **Thu:** Functions, modules, and exceptions
   - ⭐ Take-home exercise 3 questions (due date: 11:59pm Sep 18) [[link]](https://colab.research.google.com/drive/1h3tS8vIvX37qFE-FTMkfHHE6OaPLOPh9?usp=sharing)
-  - 🌟 Take-home exercise 3 example solutions [[to be uploaded]]()
+  - 🌟 Take-home exercise 3 example solutions [[link]](https://colab.research.google.com/drive/10KvllEQdTnNK8Z7tdcocN4bFi3oBFc_W?usp=sharing)
 
 ### Week 3: Sep 16 & 18
 - **Tue:** Dictionaries, sets, and recursion
