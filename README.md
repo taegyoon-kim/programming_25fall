@@ -109,7 +109,9 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 - **Tue:** NumPy and Pandas II
   - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 30) [[link]](https://colab.research.google.com/drive/1nNI8ITwF3Q4jTxc5QmjffZYnpo967o4H?usp=sharing)
   - 🌟 Take-home exercise 5 example solutions [[to be uploaded]]()
-- **Thu:** Python Fundamentals Quiz Day [[link]](https://colab.research.google.com/drive/1eDFHPzisqMNtcEafntJO37e2xSLsGObR?usp=sharing)
+- **Thu:** Python Fundamentals Quiz Day
+  - ⭐ Quiz [[link]](https://colab.research.google.com/drive/1eDFHPzisqMNtcEafntJO37e2xSLsGObR?usp=sharing)
+  - 🌟 Quiz example solutions [[link]](https://colab.research.google.com/drive/1R5go5y_BNXWbM6bD6RRfpKhixbN0nKlX?usp=sharing)
 
 ### Week 5: Sep 30 & Oct 2
 - **Tue & Thu:** Visualization
