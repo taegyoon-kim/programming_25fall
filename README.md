@@ -115,7 +115,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 5: Sep 30 & Oct 2
 - **Tue & Thu:** Visualization
-  - Lecture notebook: [[link]]()
+  - Lecture notebook: [[link]](https://colab.research.google.com/drive/1wT1f3_75grPgqv6Ea0BAvMELB5v8f_UF?usp=sharing)
   - ⭐ In-class exercise: [[link]]()
 
 ### Week 6: Oct 7 & Oct 9
