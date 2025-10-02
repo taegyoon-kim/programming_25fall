@@ -108,7 +108,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 ### Week 4: Sep 23 & 25
 - **Tue:** NumPy and Pandas II
   - ⭐ Take-home exercise 5 questions (due date: 11:59pm Sep 30) [[link]](https://colab.research.google.com/drive/1nNI8ITwF3Q4jTxc5QmjffZYnpo967o4H?usp=sharing)
-  - 🌟 Take-home exercise 5 example solutions [[to be uploaded]]()
+  - 🌟 Take-home exercise 5 example solutions [[link]](https://colab.research.google.com/drive/1C0u0L-DtHDJ1p6Zy630K7NZmoXEgpUwP?usp=sharing)
 - **Thu:** Python Fundamentals Quiz Day
   - ⭐ Quiz [[link]](https://colab.research.google.com/drive/1eDFHPzisqMNtcEafntJO37e2xSLsGObR?usp=sharing)
   - 🌟 Quiz example solutions [[link]](https://colab.research.google.com/drive/1R5go5y_BNXWbM6bD6RRfpKhixbN0nKlX?usp=sharing)
@@ -117,7 +117,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 - **Tue & Thu:** Visualization
   - Lecture notebook: [[link]](https://colab.research.google.com/drive/1wT1f3_75grPgqv6Ea0BAvMELB5v8f_UF?usp=sharing)
   - ⭐ In-class exercise [[link]](https://colab.research.google.com/drive/1QS27PH-Paw8Gi45ErRepq5F67sOToTVR?usp=sharing)
-  - 🌟 In-class exercise example solutions: [[link]](https://colab.research.google.com/drive/1QTJY6Mz4dTMxSFFNr_Ms17XhbVEVl13t?usp=sharing) 
+  - 🌟 In-class exercise example solutions [[link]](https://colab.research.google.com/drive/1QTJY6Mz4dTMxSFFNr_Ms17XhbVEVl13t?usp=sharing) 
 
 ### Week 6: Oct 7 & Oct 9
 - **Tue & Thu:** No class (Chuseok)
