@@ -136,7 +136,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 10: Nov 4 & Nov 6
 - **Tue & Thu:** Web scraping
-  - ⭐ In-class exercise: [[link]]()
+  - ⭐ In-class exercise: [[link]](https://drive.google.com/drive/folders/1neJSzuvAqGQM1X8GfVp6kAC2GLCpzd2A?usp=share_link)
 
 ### Week 11: Nov 11 & 13
 - **Tue & Thu:** Text-as-data/NLP I
