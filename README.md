@@ -140,12 +140,11 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 11: Nov 11 & 13
 - **Tue & Thu:** Text-as-data/NLP I
-  - ⭐ In-class exercise (string manipulation and regex): [[link]]()
-  - ⭐ In-class exercise (representing and comparing texts): [[link]]()
+  - ⭐ In-class exercise (string manipulation and regex): [[link]](https://colab.research.google.com/drive/19qvl6YJfuZP79u9coOZaQhYuk3psvOo3?usp=sharing)
+  - ⭐ In-class exercise (representing and comparing texts): [[link]](https://colab.research.google.com/drive/1uPANQ8UxSCBZXklViNK6j-m0MPHidlK3?usp=sharing)
 
 ### Week 12: Nov 18 & 20
 - **Tue & Thu:** Text-as-data/NLP II
-  - ⭐ In-class exercise: [[link]]()
   - ⭐ In-class exercise: [[link]]()
 
 ### Week 13: Nov 25 & 27
