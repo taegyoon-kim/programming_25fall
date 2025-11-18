@@ -145,7 +145,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 12: Nov 18 & 20
 - **Tue & Thu:** Text-as-data/NLP II
-  - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/197Xc_2-9FkRUUKZ-0fqn4qpYIRsGipyJ?usp=sharing)
+  - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/1MXhmTWwCk1YRRnHpnr47s5NkFYpfV4EM?usp=sharing)
 
 ### Week 13: Nov 25 & 27
 - **Tue:** Guest lecture ("leveraging embeddings" by [Jisung Yoon](https://jisungyoon.github.io))
