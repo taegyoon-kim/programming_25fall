@@ -153,7 +153,7 @@ The course schedule is detailed in the weekly breakdown below. **The course slid
 
 ### Week 14: Dec 2 & 4
 - **Tue & Thu:** Network analysis
-  - ⭐ In-class exercise: [[link]]()
+  - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/1ePy8rxS-3W2xUM4bnonmUK20yWnJV8hX?usp=sharing)
 
 ### Week 15: Dec 9 & 11
 - **Tue & Thu:** Machine learning
